@@ -1,5 +1,5 @@
 # MITR 2001: Military Theory @ ZJU Fall 2022 by Bryan Wang
-[Bryan Wang](https://github.com/Wang-Boyao) | MITR 2001: Military Theory, Fall 2022  
+[Bryan Wang](https://github.com/Beryex) | MITR 2001: Military Theory, Fall 2022  
 Instructor:   
 [吕强](https://person.zju.edu.cn/qlu) @ Zhejiang University
 
