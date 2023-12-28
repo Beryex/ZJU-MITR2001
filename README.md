@@ -1,2 +1,7 @@
-# ZJU-MITR2001
-Course Tutorial for MITR 2001: Military Theory in ZJU
+# MITR 2001: Military Theory @ ZJU Fall 2022 by Bryan Wang
+[Bryan Wang](WangBoyao.02@outlook.com) | MITR 2001: Military Theory, Fall 2022  
+Instructor:   
+[吕强](https://person.zju.edu.cn/qlu) @ Zhejiang University
+
+# DISCLAIMER
+THE AUTHOR OF THIS REPOSITORY SHALL **IN NO CASE** BE HELD LIABLE FOR ANY KIND OF ACADEMIC MISCONDUCT, INCLUDING BUT NOT LIMITED TO PLAGIARISM, AS A RESULT OF IMPROPER OR MISSING CITATION IN THE CORRESPONDING WORK.
